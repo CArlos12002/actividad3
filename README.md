@@ -1,3 +1,2 @@
-#Código original de snake
+# Código original de snake
 Función para cambiar de color a serpiente
-
